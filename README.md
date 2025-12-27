@@ -1,11 +1,11 @@
 Text Statistics Analyzer
 
 This is a simple python program that:
-  • Takes string from the user
-  • Calculates the frequency of vowels & consonants
-  • Calculates the frequency of digits
-  • Calculates the frequency of spaces
-  • Prints the count of all components
+  - Takes string from the user
+  - Calculates the frequency of vowels & consonants
+  - Calculates the frequency of digits
+  - Calculates the frequency of spaces
+  - Prints the count of all components
 
 How to run:
 
